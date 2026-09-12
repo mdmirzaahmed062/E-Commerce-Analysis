@@ -23,7 +23,7 @@ This project analyzes e-commerce transaction data to understand sales performanc
 - *BI Tools:* Power BI / Tableau
 - *Version Control:* Git & GitHub
 
-## 📈 Key Analyses
+## 📈 Key Analysis
 - Revenue trends over time (monthly/quarterly/yearly)
 - Best-selling products and categories
 - Customer segmentation (new vs. returning, high-value customers)
