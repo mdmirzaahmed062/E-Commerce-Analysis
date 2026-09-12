@@ -23,6 +23,14 @@ This project analyzes e-commerce transaction data to understand sales performanc
 - *BI Tools:* Power BI / Tableau
 - *Version Control:* Git & GitHub
 
+## 📈 Key Analyses
+- Revenue trends over time (monthly/quarterly/yearly)
+- Best-selling products and categories
+- Customer segmentation (new vs. returning, high-value customers)
+- Average order value and purchase frequency
+- Cart abandonment and order fulfillment rates
+- Regional/geographic sales performance
+
 ## 📊 Dataset
 
 The dataset includes e-commerce transaction records such as:
@@ -43,3 +51,7 @@ FROM 'path\to\orders.csv'
 
 
 -Dashboard Veiw:https://github.com/mdmirzaahmed062/E-Commerce-Analysis/blob/main/e-commerce-das.png
+
+## 🙌 Acknowledgments
+- Dataset source (add credit here)
+- Inspired by common e-commerce analytics portfolio projects
